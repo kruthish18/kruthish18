@@ -2,12 +2,12 @@
 
 # Welcome to Kruthi Hegde's GitHub Repository!
 
-![GitHub Followers](https://img.shields.io/github/followers/kruthish18?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/kruthish18?style=social)
 
 ## About Me
 
-Hello! I'm **Kruthi Hegde**, a passionate software engineer with a strong interest in frontend development, full-stack engineering, and cloud services. My GitHub repository is a collection of my projects, experiments, and contributions to various areas of software development. I enjoy exploring new technologies, solving complex problems, and sharing knowledge with the community.
+Hello! I'm **Kruthi Hegde**, a passionate software engineer with a strong interest in frontend development, full-stack engineering, and cloud services. I have worked as a SWE Intern at Mercari Inc. at Boston, MA and previously worked as a SDE 2 at Rakuten India.
+
+My GitHub repository is a collection of my projects, experiments, and contributions to various areas of software development. I enjoy exploring new technologies, solving complex problems, and sharing knowledge with the community.
 
 - **LinkedIn**: [Kruthi Hegde](https://www.linkedin.com/in/kruthihegde/)
 - **GitHub**: [@kruthish18](https://github.com/kruthish18)
@@ -34,7 +34,7 @@ Tutorials, example code, and other materials related to my teaching experience, 
 ## Featured Projects
 
 ### [Project 1: Tech-Buddy](https://github.com/kruthish18/tech-buddy)
-A full stack social media platform for developers to learn, explore, connect, and grow.
+A Full stack social media platform for developers to learn, explore, connect, and grow.
 
 
 ### [More Projects](https://github.com/kruthish18?tab=repositories)
@@ -43,7 +43,6 @@ Explore my other repositories to see more of my work!
 ## How to Use This Repository
 
 Feel free to browse through the repositories and projects to get a sense of my work and coding style. If you find something interesting or useful, don't hesitate to clone, fork, or contribute to the projects.
-
 
 
 
