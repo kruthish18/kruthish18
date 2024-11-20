@@ -25,11 +25,8 @@ Comprehensive projects that cover both frontend and backend aspects, using stack
 ### 3. **Cloud Services & DevOps**
 Work involving cloud platforms such as Google Cloud, Docker, Kubernetes, and CI/CD pipelines. These projects focus on deploying scalable and efficient cloud-based applications.
 
-### 4. **Data Science & Machine Learning**
-A collection of my work in data analysis, machine learning, and predictive modeling, often implemented in Python using libraries such as pandas and scikit-learn.
-
-### 5. **Educational Content**
-Tutorials, example code, and other materials related to my teaching experience, particularly in Data Structures, Algorithms, and software engineering principles.
+### 4. **Educational Content**
+Tutorials, Leetcode answers, example code, and other materials related to my teaching experience, particularly in Data Structures, Algorithms, and software engineering principles.
 
 ## Featured Projects
 
