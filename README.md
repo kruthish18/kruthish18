@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm **Kruthi Hegde**, a passionate software engineer with a strong interest in frontend development, full-stack engineering, and cloud services. I have worked as a SWE Intern at Mercari Inc. at Boston, MA and previously worked as a SDE 2 at Rakuten India.
+Hello! I'm **Kruthi Hegde**, a passionate software engineer with 3+ years of professional experience with a strong interest in frontend development, full-stack engineering, and cloud services. I have worked as a SWE Intern at Mercari Inc. at Boston, MA and previously worked as a SDE 2 at Rakuten India *(for 3 years)*.
 
 My GitHub repository is a collection of my projects, experiments, and contributions to various areas of software development. I enjoy exploring new technologies, solving complex problems, and sharing knowledge with the community.
 
@@ -30,7 +30,10 @@ Tutorials, Leetcode answers, example code, and other materials related to my tea
 
 ## Featured Projects
 
-### [Project 1: Tech-Buddy](https://github.com/kruthish18/tech-buddy)
+### [Project 1: Voice-AI Assistant](https://github.com/kruthish18/voice-ai)
+A Voice-AI assistant that captures, transcribes, and processes user speech using Whisper and GPT-4, then synthesizes and streams real-time responses via Web Speech APIs in a browser-based interface.
+
+### [Project 2: Tech-Buddy](https://github.com/kruthish18/tech-buddy)
 A Full stack social media platform for developers to learn, explore, connect, and grow.
 
 
